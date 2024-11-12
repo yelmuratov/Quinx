@@ -34,7 +34,6 @@ The Carbon Emssion of the various industry has been stored in the XDC Blockchain
 
 # Demo Application
 [![To be Updated](Image)](https://github.com/tech-creed/Green-Chain-PLI-Hackathon-2.0/assets/65155327/cbe6ab28-f651-4437-bd30-98dd56b29b01)
-### Application Deployed Link - https://Quinx-coub.onrender.com/
 
 # Tech Prerequirement
 - Python <= 3.10
